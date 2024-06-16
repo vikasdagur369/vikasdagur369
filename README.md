@@ -1,4 +1,4 @@
-# 💫 About Me: Hi 👋, I'm Vikas Dagur
+# 💫<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=2001&color=1A7CF7&background=74FF4700&random=false&width=435&lines=Namaste%2C+I'm+Vikas+Dagur.+You+are+Welcome!" alt="Typing SVG" /></a>
 I'm currently working on full-stack development.<br>I'm looking to collaborate on open source and frontend.<br>I'm currently learning Go , Spring-boot , flutter.<br>ask me about React  , backend. <br>Currently mastering Linux commands and building full-stack applications like a coding acrobat!
 
 
