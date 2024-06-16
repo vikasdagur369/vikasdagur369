@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Hi 👋, I'm Vikas Dagur
 I'm currently working on full-stack development.<br>I'm looking to collaborate on open source and frontend.<br>I'm currently learning Go , Spring-boot , flutter.<br>ask me about React  , backend. <br>Currently mastering Linux commands and building full-stack applications like a coding acrobat!
 
 
