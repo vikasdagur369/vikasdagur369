@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-[MY-RESUME📃](https://drive.google.com/file/d/1HrRUfu7wAR9GGu0aQmzng_Qc7jrEHVJJ/view?usp=sharing)
+📄 [**Check out my Resume here**](https://drive.google.com/file/d/1ctwgNWkefXqhqJ3gNghxLo8aMkQsbDe3/view?usp=sharing) to see what I’ve been building!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vikasdagur369) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vikasdagur369@gmail.com) 
 
 # 💻 Tech Stack:
