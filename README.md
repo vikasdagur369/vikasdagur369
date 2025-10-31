@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full Stack Dev | 🚀 Project Builder | 🧠 DSA Enthusiast<br>🛠️ Building apps | 🧩 Solving problems | 📈 Learning daily<br>💡 Code. 🎯 Create. 🧠 Solve. 🔁 Repeat.<br>⚙️ Crafting full-stack apps & 🧮 cracking DSA<br> 🔥 <br>💻 Passionate about full stack, 🌐 real-world apps, and 📐 algorithms<br>💭 Turning ideas into 💻 code & problems into ✅ solutions
+💻 Full Stack Dev | 🚀 Project Builder | 🧠 DSA Enthusiast<br>🛠️ Building apps | 🧩 Solving problems | 📈 Learning daily<br>💡 Code. 🎯 Create. 🧠 Solve. 🔁 Repeat.<br>⚙️ Crafting full-stack apps & 🧮 cracking DSA<br>💻 Passionate about full stack, 🌐 real-world apps, and 📐 algorithms<br>💭 Turning ideas into 💻 code & problems into ✅ solutions
 
 
 ## 🌐 Socials:
